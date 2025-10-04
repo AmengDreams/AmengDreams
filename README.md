@@ -14,10 +14,4 @@ Appart from maintaining Open Source projects, I work as a Freelance Consultant a
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/5465973?color=orange&label=Stack%20Overflow&logo=stackoverflow&style=flat&cacheSeconds=86400)](https://stackoverflow.com/users/5465973/pierre-b)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@pierre_49652)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1134762354756825149)
-
-
-## 🔓 Open Source
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PierreBeucher&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
+ 
